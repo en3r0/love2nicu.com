@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>http://love2nicu.com/</loc>
-		<lastmod>2019-02-15T01:39:43+00:00</lastmod>
+		<lastmod>2019-03-19T01:34:31+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://love2nicu.com/a-glimpse-at-whats-to-come/</loc>
@@ -113,6 +113,46 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://love2nicu.com/wp-content/uploads/2019/02/IMG_5796.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://love2nicu.com/what-its-like-to-receive-synagis-injections/</loc>
+		<lastmod>2019-03-19T01:34:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4052.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/Healthy-Post-Holiday-Recipes.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_3954.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_3951.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4919.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_3952.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4033.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4030.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4032.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4034.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4035.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://love2nicu.com/wp-content/uploads/2019/03/IMG_4076.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
